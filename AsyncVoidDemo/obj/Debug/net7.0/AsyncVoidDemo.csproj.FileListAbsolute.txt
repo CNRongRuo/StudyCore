@@ -1,0 +1,15 @@
+C:\Users\llc\RiderProjects\StudyCore\AsyncVoidDemo\bin\Debug\net7.0\AsyncVoidDemo.exe
+C:\Users\llc\RiderProjects\StudyCore\AsyncVoidDemo\bin\Debug\net7.0\AsyncVoidDemo.deps.json
+C:\Users\llc\RiderProjects\StudyCore\AsyncVoidDemo\bin\Debug\net7.0\AsyncVoidDemo.runtimeconfig.json
+C:\Users\llc\RiderProjects\StudyCore\AsyncVoidDemo\bin\Debug\net7.0\AsyncVoidDemo.dll
+C:\Users\llc\RiderProjects\StudyCore\AsyncVoidDemo\bin\Debug\net7.0\AsyncVoidDemo.pdb
+C:\Users\llc\RiderProjects\StudyCore\AsyncVoidDemo\obj\Debug\net7.0\AsyncVoidDemo.csproj.AssemblyReference.cache
+C:\Users\llc\RiderProjects\StudyCore\AsyncVoidDemo\obj\Debug\net7.0\AsyncVoidDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llc\RiderProjects\StudyCore\AsyncVoidDemo\obj\Debug\net7.0\AsyncVoidDemo.AssemblyInfoInputs.cache
+C:\Users\llc\RiderProjects\StudyCore\AsyncVoidDemo\obj\Debug\net7.0\AsyncVoidDemo.AssemblyInfo.cs
+C:\Users\llc\RiderProjects\StudyCore\AsyncVoidDemo\obj\Debug\net7.0\AsyncVoidDemo.csproj.CoreCompileInputs.cache
+C:\Users\llc\RiderProjects\StudyCore\AsyncVoidDemo\obj\Debug\net7.0\AsyncVoidDemo.dll
+C:\Users\llc\RiderProjects\StudyCore\AsyncVoidDemo\obj\Debug\net7.0\refint\AsyncVoidDemo.dll
+C:\Users\llc\RiderProjects\StudyCore\AsyncVoidDemo\obj\Debug\net7.0\AsyncVoidDemo.pdb
+C:\Users\llc\RiderProjects\StudyCore\AsyncVoidDemo\obj\Debug\net7.0\AsyncVoidDemo.genruntimeconfig.cache
+C:\Users\llc\RiderProjects\StudyCore\AsyncVoidDemo\obj\Debug\net7.0\ref\AsyncVoidDemo.dll

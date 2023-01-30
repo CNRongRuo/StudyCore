@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "__和equals区别/1.0.0": {
+        "runtime": {
+          "__和equals区别.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "__和equals区别/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
