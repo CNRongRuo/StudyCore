@@ -1,0 +1,15 @@
+C:\Users\llc\RiderProjects\StudyCore\EventDemo\bin\Debug\net7.0\EventDemo.exe
+C:\Users\llc\RiderProjects\StudyCore\EventDemo\bin\Debug\net7.0\EventDemo.deps.json
+C:\Users\llc\RiderProjects\StudyCore\EventDemo\bin\Debug\net7.0\EventDemo.runtimeconfig.json
+C:\Users\llc\RiderProjects\StudyCore\EventDemo\bin\Debug\net7.0\EventDemo.dll
+C:\Users\llc\RiderProjects\StudyCore\EventDemo\bin\Debug\net7.0\EventDemo.pdb
+C:\Users\llc\RiderProjects\StudyCore\EventDemo\obj\Debug\net7.0\EventDemo.csproj.AssemblyReference.cache
+C:\Users\llc\RiderProjects\StudyCore\EventDemo\obj\Debug\net7.0\EventDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llc\RiderProjects\StudyCore\EventDemo\obj\Debug\net7.0\EventDemo.AssemblyInfoInputs.cache
+C:\Users\llc\RiderProjects\StudyCore\EventDemo\obj\Debug\net7.0\EventDemo.AssemblyInfo.cs
+C:\Users\llc\RiderProjects\StudyCore\EventDemo\obj\Debug\net7.0\EventDemo.csproj.CoreCompileInputs.cache
+C:\Users\llc\RiderProjects\StudyCore\EventDemo\obj\Debug\net7.0\EventDemo.dll
+C:\Users\llc\RiderProjects\StudyCore\EventDemo\obj\Debug\net7.0\refint\EventDemo.dll
+C:\Users\llc\RiderProjects\StudyCore\EventDemo\obj\Debug\net7.0\EventDemo.pdb
+C:\Users\llc\RiderProjects\StudyCore\EventDemo\obj\Debug\net7.0\EventDemo.genruntimeconfig.cache
+C:\Users\llc\RiderProjects\StudyCore\EventDemo\obj\Debug\net7.0\ref\EventDemo.dll

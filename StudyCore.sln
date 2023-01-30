@@ -1,26 +1,37 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "__和equals区别", "__和equals区别\__和equals区别.csproj", "{858448FA-F2BE-4183-B9AD-368B39F8AFBC}"
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "__和equals区别", "__和equals区别\__和equals区别.csproj", "{858448FA-F2BE-4183-B9AD-368B39F8AFBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Async_Task和Async_Void", "Async_Task和Async_Void\Async_Task和Async_Void.csproj", "{5D8B3F0B-8110-45A6-82C0-D7D411C61417}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Async_Task和Async_Void", "Async_Task和Async_Void\Async_Task和Async_Void.csproj", "{5D8B3F0B-8110-45A6-82C0-D7D411C61417}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncVoidDemo", "AsyncVoidDemo\AsyncVoidDemo.csproj", "{5788E66E-A164-44AB-8297-DB05587500C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncVoidDemo", "AsyncVoidDemo\AsyncVoidDemo.csproj", "{5788E66E-A164-44AB-8297-DB05587500C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwaitDemo", "AwaitDemo\AwaitDemo.csproj", "{BF33146A-73ED-411A-AC39-79B3AC09B676}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AwaitDemo", "AwaitDemo\AwaitDemo.csproj", "{BF33146A-73ED-411A-AC39-79B3AC09B676}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordDemo新特性", "RecordDemo新特性\RecordDemo新特性.csproj", "{66FE460D-1D63-4600-B8E3-CD1A5303C41A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecordDemo新特性", "RecordDemo新特性\RecordDemo新特性.csproj", "{66FE460D-1D63-4600-B8E3-CD1A5303C41A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CancellationTokenSourceDemo", "CancellationTokenSourceDemo\CancellationTokenSourceDemo.csproj", "{E32B8B27-7264-4248-8D01-49C8EF987581}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CancellationTokenSourceDemo", "CancellationTokenSourceDemo\CancellationTokenSourceDemo.csproj", "{E32B8B27-7264-4248-8D01-49C8EF987581}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckedAndUnCheckedDemo", "CheckedAndUnCheckedDemo\CheckedAndUnCheckedDemo.csproj", "{20BC60E4-083A-4E00-8D71-0F9275316CE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckedAndUnCheckedDemo", "CheckedAndUnCheckedDemo\CheckedAndUnCheckedDemo.csproj", "{20BC60E4-083A-4E00-8D71-0F9275316CE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "const与readonly区别", "const与readonly区别\const与readonly区别.csproj", "{9658594D-4019-4D13-B81D-5B21578E551B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "const与readonly区别", "const与readonly区别\const与readonly区别.csproj", "{9658594D-4019-4D13-B81D-5B21578E551B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateDemo", "DelegateDemo\DelegateDemo.csproj", "{66747D24-834C-4686-AAB2-93C836B6BF38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateDemo", "DelegateDemo\DelegateDemo.csproj", "{66747D24-834C-4686-AAB2-93C836B6BF38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContinueWithDemo", "ContinueWithDemo\ContinueWithDemo.csproj", "{AA3EFDBC-1740-4195-9AA0-5EEE815A6CC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContinueWithDemo", "ContinueWithDemo\ContinueWithDemo.csproj", "{AA3EFDBC-1740-4195-9AA0-5EEE815A6CC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMD", "CMD\CMD.csproj", "{9A5E06B9-15E2-489B-AB84-C1BCA46FCAAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CMD", "CMD\CMD.csproj", "{9A5E06B9-15E2-489B-AB84-C1BCA46FCAAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate委托三种声明方式", "Delegate委托三种声明方式\Delegate委托三种声明方式.csproj", "{C2169904-F87B-4604-BC47-E3361276731F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "多播委托", "多播委托\多播委托.csproj", "{E78CF489-4457-4519-B2CF-8CAC96221D3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "委托中的协变和逆变", "委托中的协变和逆变\委托中的协变和逆变.csproj", "{C8EB81B0-C0F0-4636-90E7-E1849F6D9D42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventDemo", "EventDemo\EventDemo.csproj", "{AD0812C8-B1F4-4AF9-8390-915BA6897417}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -72,5 +83,27 @@ Global
 		{9A5E06B9-15E2-489B-AB84-C1BCA46FCAAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A5E06B9-15E2-489B-AB84-C1BCA46FCAAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A5E06B9-15E2-489B-AB84-C1BCA46FCAAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2169904-F87B-4604-BC47-E3361276731F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2169904-F87B-4604-BC47-E3361276731F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2169904-F87B-4604-BC47-E3361276731F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2169904-F87B-4604-BC47-E3361276731F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E78CF489-4457-4519-B2CF-8CAC96221D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E78CF489-4457-4519-B2CF-8CAC96221D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E78CF489-4457-4519-B2CF-8CAC96221D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E78CF489-4457-4519-B2CF-8CAC96221D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8EB81B0-C0F0-4636-90E7-E1849F6D9D42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8EB81B0-C0F0-4636-90E7-E1849F6D9D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8EB81B0-C0F0-4636-90E7-E1849F6D9D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8EB81B0-C0F0-4636-90E7-E1849F6D9D42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD0812C8-B1F4-4AF9-8390-915BA6897417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0812C8-B1F4-4AF9-8390-915BA6897417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0812C8-B1F4-4AF9-8390-915BA6897417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0812C8-B1F4-4AF9-8390-915BA6897417}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {143DE89C-A8B3-4420-A328-534798C834B1}
 	EndGlobalSection
 EndGlobal

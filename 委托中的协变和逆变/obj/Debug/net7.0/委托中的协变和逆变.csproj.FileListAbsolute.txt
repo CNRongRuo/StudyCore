@@ -1,0 +1,15 @@
+C:\Users\llc\RiderProjects\StudyCore\委托中的协变和逆变\bin\Debug\net7.0\委托中的协变和逆变.exe
+C:\Users\llc\RiderProjects\StudyCore\委托中的协变和逆变\bin\Debug\net7.0\委托中的协变和逆变.deps.json
+C:\Users\llc\RiderProjects\StudyCore\委托中的协变和逆变\bin\Debug\net7.0\委托中的协变和逆变.runtimeconfig.json
+C:\Users\llc\RiderProjects\StudyCore\委托中的协变和逆变\bin\Debug\net7.0\委托中的协变和逆变.dll
+C:\Users\llc\RiderProjects\StudyCore\委托中的协变和逆变\bin\Debug\net7.0\委托中的协变和逆变.pdb
+C:\Users\llc\RiderProjects\StudyCore\委托中的协变和逆变\obj\Debug\net7.0\委托中的协变和逆变.csproj.AssemblyReference.cache
+C:\Users\llc\RiderProjects\StudyCore\委托中的协变和逆变\obj\Debug\net7.0\委托中的协变和逆变.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llc\RiderProjects\StudyCore\委托中的协变和逆变\obj\Debug\net7.0\委托中的协变和逆变.AssemblyInfoInputs.cache
+C:\Users\llc\RiderProjects\StudyCore\委托中的协变和逆变\obj\Debug\net7.0\委托中的协变和逆变.AssemblyInfo.cs
+C:\Users\llc\RiderProjects\StudyCore\委托中的协变和逆变\obj\Debug\net7.0\委托中的协变和逆变.csproj.CoreCompileInputs.cache
+C:\Users\llc\RiderProjects\StudyCore\委托中的协变和逆变\obj\Debug\net7.0\委托中的协变和逆变.dll
+C:\Users\llc\RiderProjects\StudyCore\委托中的协变和逆变\obj\Debug\net7.0\refint\委托中的协变和逆变.dll
+C:\Users\llc\RiderProjects\StudyCore\委托中的协变和逆变\obj\Debug\net7.0\委托中的协变和逆变.pdb
+C:\Users\llc\RiderProjects\StudyCore\委托中的协变和逆变\obj\Debug\net7.0\委托中的协变和逆变.genruntimeconfig.cache
+C:\Users\llc\RiderProjects\StudyCore\委托中的协变和逆变\obj\Debug\net7.0\ref\委托中的协变和逆变.dll

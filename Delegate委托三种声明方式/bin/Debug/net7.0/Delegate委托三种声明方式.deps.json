@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Delegate委托三种声明方式/1.0.0": {
+        "runtime": {
+          "Delegate委托三种声明方式.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Delegate委托三种声明方式/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

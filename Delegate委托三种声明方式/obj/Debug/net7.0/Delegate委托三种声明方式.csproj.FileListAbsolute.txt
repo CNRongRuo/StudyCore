@@ -1,0 +1,15 @@
+C:\Users\llc\RiderProjects\StudyCore\Delegate委托三种声明方式\bin\Debug\net7.0\Delegate委托三种声明方式.exe
+C:\Users\llc\RiderProjects\StudyCore\Delegate委托三种声明方式\bin\Debug\net7.0\Delegate委托三种声明方式.deps.json
+C:\Users\llc\RiderProjects\StudyCore\Delegate委托三种声明方式\bin\Debug\net7.0\Delegate委托三种声明方式.runtimeconfig.json
+C:\Users\llc\RiderProjects\StudyCore\Delegate委托三种声明方式\bin\Debug\net7.0\Delegate委托三种声明方式.dll
+C:\Users\llc\RiderProjects\StudyCore\Delegate委托三种声明方式\bin\Debug\net7.0\Delegate委托三种声明方式.pdb
+C:\Users\llc\RiderProjects\StudyCore\Delegate委托三种声明方式\obj\Debug\net7.0\Delegate委托三种声明方式.csproj.AssemblyReference.cache
+C:\Users\llc\RiderProjects\StudyCore\Delegate委托三种声明方式\obj\Debug\net7.0\Delegate委托三种声明方式.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llc\RiderProjects\StudyCore\Delegate委托三种声明方式\obj\Debug\net7.0\Delegate委托三种声明方式.AssemblyInfoInputs.cache
+C:\Users\llc\RiderProjects\StudyCore\Delegate委托三种声明方式\obj\Debug\net7.0\Delegate委托三种声明方式.AssemblyInfo.cs
+C:\Users\llc\RiderProjects\StudyCore\Delegate委托三种声明方式\obj\Debug\net7.0\Delegate委托三种声明方式.csproj.CoreCompileInputs.cache
+C:\Users\llc\RiderProjects\StudyCore\Delegate委托三种声明方式\obj\Debug\net7.0\Delegate委托三种声明方式.dll
+C:\Users\llc\RiderProjects\StudyCore\Delegate委托三种声明方式\obj\Debug\net7.0\refint\Delegate委托三种声明方式.dll
+C:\Users\llc\RiderProjects\StudyCore\Delegate委托三种声明方式\obj\Debug\net7.0\Delegate委托三种声明方式.pdb
+C:\Users\llc\RiderProjects\StudyCore\Delegate委托三种声明方式\obj\Debug\net7.0\Delegate委托三种声明方式.genruntimeconfig.cache
+C:\Users\llc\RiderProjects\StudyCore\Delegate委托三种声明方式\obj\Debug\net7.0\ref\Delegate委托三种声明方式.dll
