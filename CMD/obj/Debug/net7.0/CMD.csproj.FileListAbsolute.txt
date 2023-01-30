@@ -1,0 +1,15 @@
+C:\Users\llc\RiderProjects\StudyCore\CMD\bin\Debug\net7.0\CMD.exe
+C:\Users\llc\RiderProjects\StudyCore\CMD\bin\Debug\net7.0\CMD.deps.json
+C:\Users\llc\RiderProjects\StudyCore\CMD\bin\Debug\net7.0\CMD.runtimeconfig.json
+C:\Users\llc\RiderProjects\StudyCore\CMD\bin\Debug\net7.0\CMD.dll
+C:\Users\llc\RiderProjects\StudyCore\CMD\bin\Debug\net7.0\CMD.pdb
+C:\Users\llc\RiderProjects\StudyCore\CMD\obj\Debug\net7.0\CMD.csproj.AssemblyReference.cache
+C:\Users\llc\RiderProjects\StudyCore\CMD\obj\Debug\net7.0\CMD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llc\RiderProjects\StudyCore\CMD\obj\Debug\net7.0\CMD.AssemblyInfoInputs.cache
+C:\Users\llc\RiderProjects\StudyCore\CMD\obj\Debug\net7.0\CMD.AssemblyInfo.cs
+C:\Users\llc\RiderProjects\StudyCore\CMD\obj\Debug\net7.0\CMD.csproj.CoreCompileInputs.cache
+C:\Users\llc\RiderProjects\StudyCore\CMD\obj\Debug\net7.0\CMD.dll
+C:\Users\llc\RiderProjects\StudyCore\CMD\obj\Debug\net7.0\refint\CMD.dll
+C:\Users\llc\RiderProjects\StudyCore\CMD\obj\Debug\net7.0\CMD.pdb
+C:\Users\llc\RiderProjects\StudyCore\CMD\obj\Debug\net7.0\CMD.genruntimeconfig.cache
+C:\Users\llc\RiderProjects\StudyCore\CMD\obj\Debug\net7.0\ref\CMD.dll

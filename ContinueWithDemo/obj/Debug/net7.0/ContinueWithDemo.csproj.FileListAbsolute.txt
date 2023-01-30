@@ -1,0 +1,15 @@
+C:\Users\llc\RiderProjects\StudyCore\ContinueWithDemo\bin\Debug\net7.0\ContinueWithDemo.exe
+C:\Users\llc\RiderProjects\StudyCore\ContinueWithDemo\bin\Debug\net7.0\ContinueWithDemo.deps.json
+C:\Users\llc\RiderProjects\StudyCore\ContinueWithDemo\bin\Debug\net7.0\ContinueWithDemo.runtimeconfig.json
+C:\Users\llc\RiderProjects\StudyCore\ContinueWithDemo\bin\Debug\net7.0\ContinueWithDemo.dll
+C:\Users\llc\RiderProjects\StudyCore\ContinueWithDemo\bin\Debug\net7.0\ContinueWithDemo.pdb
+C:\Users\llc\RiderProjects\StudyCore\ContinueWithDemo\obj\Debug\net7.0\ContinueWithDemo.csproj.AssemblyReference.cache
+C:\Users\llc\RiderProjects\StudyCore\ContinueWithDemo\obj\Debug\net7.0\ContinueWithDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llc\RiderProjects\StudyCore\ContinueWithDemo\obj\Debug\net7.0\ContinueWithDemo.AssemblyInfoInputs.cache
+C:\Users\llc\RiderProjects\StudyCore\ContinueWithDemo\obj\Debug\net7.0\ContinueWithDemo.AssemblyInfo.cs
+C:\Users\llc\RiderProjects\StudyCore\ContinueWithDemo\obj\Debug\net7.0\ContinueWithDemo.csproj.CoreCompileInputs.cache
+C:\Users\llc\RiderProjects\StudyCore\ContinueWithDemo\obj\Debug\net7.0\ContinueWithDemo.dll
+C:\Users\llc\RiderProjects\StudyCore\ContinueWithDemo\obj\Debug\net7.0\refint\ContinueWithDemo.dll
+C:\Users\llc\RiderProjects\StudyCore\ContinueWithDemo\obj\Debug\net7.0\ContinueWithDemo.pdb
+C:\Users\llc\RiderProjects\StudyCore\ContinueWithDemo\obj\Debug\net7.0\ContinueWithDemo.genruntimeconfig.cache
+C:\Users\llc\RiderProjects\StudyCore\ContinueWithDemo\obj\Debug\net7.0\ref\ContinueWithDemo.dll

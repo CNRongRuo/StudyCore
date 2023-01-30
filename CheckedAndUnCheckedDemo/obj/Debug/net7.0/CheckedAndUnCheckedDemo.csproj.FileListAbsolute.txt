@@ -1,0 +1,15 @@
+C:\Users\llc\RiderProjects\StudyCore\CheckedAndUnCheckedDemo\bin\Debug\net7.0\CheckedAndUnCheckedDemo.exe
+C:\Users\llc\RiderProjects\StudyCore\CheckedAndUnCheckedDemo\bin\Debug\net7.0\CheckedAndUnCheckedDemo.deps.json
+C:\Users\llc\RiderProjects\StudyCore\CheckedAndUnCheckedDemo\bin\Debug\net7.0\CheckedAndUnCheckedDemo.runtimeconfig.json
+C:\Users\llc\RiderProjects\StudyCore\CheckedAndUnCheckedDemo\bin\Debug\net7.0\CheckedAndUnCheckedDemo.dll
+C:\Users\llc\RiderProjects\StudyCore\CheckedAndUnCheckedDemo\bin\Debug\net7.0\CheckedAndUnCheckedDemo.pdb
+C:\Users\llc\RiderProjects\StudyCore\CheckedAndUnCheckedDemo\obj\Debug\net7.0\CheckedAndUnCheckedDemo.csproj.AssemblyReference.cache
+C:\Users\llc\RiderProjects\StudyCore\CheckedAndUnCheckedDemo\obj\Debug\net7.0\CheckedAndUnCheckedDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llc\RiderProjects\StudyCore\CheckedAndUnCheckedDemo\obj\Debug\net7.0\CheckedAndUnCheckedDemo.AssemblyInfoInputs.cache
+C:\Users\llc\RiderProjects\StudyCore\CheckedAndUnCheckedDemo\obj\Debug\net7.0\CheckedAndUnCheckedDemo.AssemblyInfo.cs
+C:\Users\llc\RiderProjects\StudyCore\CheckedAndUnCheckedDemo\obj\Debug\net7.0\CheckedAndUnCheckedDemo.csproj.CoreCompileInputs.cache
+C:\Users\llc\RiderProjects\StudyCore\CheckedAndUnCheckedDemo\obj\Debug\net7.0\CheckedAndUnCheckedDemo.dll
+C:\Users\llc\RiderProjects\StudyCore\CheckedAndUnCheckedDemo\obj\Debug\net7.0\refint\CheckedAndUnCheckedDemo.dll
+C:\Users\llc\RiderProjects\StudyCore\CheckedAndUnCheckedDemo\obj\Debug\net7.0\CheckedAndUnCheckedDemo.pdb
+C:\Users\llc\RiderProjects\StudyCore\CheckedAndUnCheckedDemo\obj\Debug\net7.0\CheckedAndUnCheckedDemo.genruntimeconfig.cache
+C:\Users\llc\RiderProjects\StudyCore\CheckedAndUnCheckedDemo\obj\Debug\net7.0\ref\CheckedAndUnCheckedDemo.dll

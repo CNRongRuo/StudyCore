@@ -1,0 +1,15 @@
+C:\Users\llc\RiderProjects\StudyCore\CancellationTokenSourceDemo\bin\Debug\net7.0\CancellationTokenSourceDemo.exe
+C:\Users\llc\RiderProjects\StudyCore\CancellationTokenSourceDemo\bin\Debug\net7.0\CancellationTokenSourceDemo.deps.json
+C:\Users\llc\RiderProjects\StudyCore\CancellationTokenSourceDemo\bin\Debug\net7.0\CancellationTokenSourceDemo.runtimeconfig.json
+C:\Users\llc\RiderProjects\StudyCore\CancellationTokenSourceDemo\bin\Debug\net7.0\CancellationTokenSourceDemo.dll
+C:\Users\llc\RiderProjects\StudyCore\CancellationTokenSourceDemo\bin\Debug\net7.0\CancellationTokenSourceDemo.pdb
+C:\Users\llc\RiderProjects\StudyCore\CancellationTokenSourceDemo\obj\Debug\net7.0\CancellationTokenSourceDemo.csproj.AssemblyReference.cache
+C:\Users\llc\RiderProjects\StudyCore\CancellationTokenSourceDemo\obj\Debug\net7.0\CancellationTokenSourceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llc\RiderProjects\StudyCore\CancellationTokenSourceDemo\obj\Debug\net7.0\CancellationTokenSourceDemo.AssemblyInfoInputs.cache
+C:\Users\llc\RiderProjects\StudyCore\CancellationTokenSourceDemo\obj\Debug\net7.0\CancellationTokenSourceDemo.AssemblyInfo.cs
+C:\Users\llc\RiderProjects\StudyCore\CancellationTokenSourceDemo\obj\Debug\net7.0\CancellationTokenSourceDemo.csproj.CoreCompileInputs.cache
+C:\Users\llc\RiderProjects\StudyCore\CancellationTokenSourceDemo\obj\Debug\net7.0\CancellationTokenSourceDemo.dll
+C:\Users\llc\RiderProjects\StudyCore\CancellationTokenSourceDemo\obj\Debug\net7.0\refint\CancellationTokenSourceDemo.dll
+C:\Users\llc\RiderProjects\StudyCore\CancellationTokenSourceDemo\obj\Debug\net7.0\CancellationTokenSourceDemo.pdb
+C:\Users\llc\RiderProjects\StudyCore\CancellationTokenSourceDemo\obj\Debug\net7.0\CancellationTokenSourceDemo.genruntimeconfig.cache
+C:\Users\llc\RiderProjects\StudyCore\CancellationTokenSourceDemo\obj\Debug\net7.0\ref\CancellationTokenSourceDemo.dll
