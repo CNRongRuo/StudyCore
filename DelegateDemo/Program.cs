@@ -1,6 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using DelegateDemo;
+
+using Bookstore;
+
+namespace BookTestClient;
 
 /// <summary>
 /// BookDB 类封装一个书店数据库，它维护一个书籍数据库。它公开 ProcessPaperbackBooks 方法，该方法在数据库中查找所有平装书，并对每本平装书调用一个委托。使用的 delegate 类型名为 ProcessBookDelegate。Test 类使用该类打印平装书的书名和平均价格。

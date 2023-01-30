@@ -1,0 +1,15 @@
+C:\Users\llc\RiderProjects\StudyCore\DelegateDemo\bin\Debug\net7.0\DelegateDemo.exe
+C:\Users\llc\RiderProjects\StudyCore\DelegateDemo\bin\Debug\net7.0\DelegateDemo.deps.json
+C:\Users\llc\RiderProjects\StudyCore\DelegateDemo\bin\Debug\net7.0\DelegateDemo.runtimeconfig.json
+C:\Users\llc\RiderProjects\StudyCore\DelegateDemo\bin\Debug\net7.0\DelegateDemo.dll
+C:\Users\llc\RiderProjects\StudyCore\DelegateDemo\bin\Debug\net7.0\DelegateDemo.pdb
+C:\Users\llc\RiderProjects\StudyCore\DelegateDemo\obj\Debug\net7.0\DelegateDemo.csproj.AssemblyReference.cache
+C:\Users\llc\RiderProjects\StudyCore\DelegateDemo\obj\Debug\net7.0\DelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llc\RiderProjects\StudyCore\DelegateDemo\obj\Debug\net7.0\DelegateDemo.AssemblyInfoInputs.cache
+C:\Users\llc\RiderProjects\StudyCore\DelegateDemo\obj\Debug\net7.0\DelegateDemo.AssemblyInfo.cs
+C:\Users\llc\RiderProjects\StudyCore\DelegateDemo\obj\Debug\net7.0\DelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\llc\RiderProjects\StudyCore\DelegateDemo\obj\Debug\net7.0\DelegateDemo.dll
+C:\Users\llc\RiderProjects\StudyCore\DelegateDemo\obj\Debug\net7.0\refint\DelegateDemo.dll
+C:\Users\llc\RiderProjects\StudyCore\DelegateDemo\obj\Debug\net7.0\DelegateDemo.pdb
+C:\Users\llc\RiderProjects\StudyCore\DelegateDemo\obj\Debug\net7.0\DelegateDemo.genruntimeconfig.cache
+C:\Users\llc\RiderProjects\StudyCore\DelegateDemo\obj\Debug\net7.0\ref\DelegateDemo.dll

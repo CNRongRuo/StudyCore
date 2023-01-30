@@ -1,4 +1,4 @@
-﻿namespace DelegateDemo;
+﻿namespace Bookstore;
 
 // Declare a delegate type for processing a book:
 public delegate void ProcessBookCallback(Book book);

@@ -1,4 +1,6 @@
-﻿namespace DelegateDemo;
+﻿using Bookstore;
+
+namespace BookTestClient;
 
 public class PriceTotaller
 {
