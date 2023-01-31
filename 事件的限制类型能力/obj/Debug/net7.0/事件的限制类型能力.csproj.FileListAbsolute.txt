@@ -1,0 +1,15 @@
+C:\Users\llc\RiderProjects\StudyCore\事件的限制类型能力\bin\Debug\net7.0\事件的限制类型能力.exe
+C:\Users\llc\RiderProjects\StudyCore\事件的限制类型能力\bin\Debug\net7.0\事件的限制类型能力.deps.json
+C:\Users\llc\RiderProjects\StudyCore\事件的限制类型能力\bin\Debug\net7.0\事件的限制类型能力.runtimeconfig.json
+C:\Users\llc\RiderProjects\StudyCore\事件的限制类型能力\bin\Debug\net7.0\事件的限制类型能力.dll
+C:\Users\llc\RiderProjects\StudyCore\事件的限制类型能力\bin\Debug\net7.0\事件的限制类型能力.pdb
+C:\Users\llc\RiderProjects\StudyCore\事件的限制类型能力\obj\Debug\net7.0\事件的限制类型能力.csproj.AssemblyReference.cache
+C:\Users\llc\RiderProjects\StudyCore\事件的限制类型能力\obj\Debug\net7.0\事件的限制类型能力.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llc\RiderProjects\StudyCore\事件的限制类型能力\obj\Debug\net7.0\事件的限制类型能力.AssemblyInfoInputs.cache
+C:\Users\llc\RiderProjects\StudyCore\事件的限制类型能力\obj\Debug\net7.0\事件的限制类型能力.AssemblyInfo.cs
+C:\Users\llc\RiderProjects\StudyCore\事件的限制类型能力\obj\Debug\net7.0\事件的限制类型能力.csproj.CoreCompileInputs.cache
+C:\Users\llc\RiderProjects\StudyCore\事件的限制类型能力\obj\Debug\net7.0\事件的限制类型能力.dll
+C:\Users\llc\RiderProjects\StudyCore\事件的限制类型能力\obj\Debug\net7.0\refint\事件的限制类型能力.dll
+C:\Users\llc\RiderProjects\StudyCore\事件的限制类型能力\obj\Debug\net7.0\事件的限制类型能力.pdb
+C:\Users\llc\RiderProjects\StudyCore\事件的限制类型能力\obj\Debug\net7.0\事件的限制类型能力.genruntimeconfig.cache
+C:\Users\llc\RiderProjects\StudyCore\事件的限制类型能力\obj\Debug\net7.0\ref\事件的限制类型能力.dll
