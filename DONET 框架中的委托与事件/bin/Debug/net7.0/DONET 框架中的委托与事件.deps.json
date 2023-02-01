@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DONET 框架中的委托与事件/1.0.0": {
+        "runtime": {
+          "DONET 框架中的委托与事件.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DONET 框架中的委托与事件/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
