@@ -39,6 +39,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "事件的由来", "事件�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "事件的限制类型能力", "事件的限制类型能力\事件的限制类型能力.csproj", "{65B882C2-08AC-41CA-97D6-8704E761E149}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateDemo热水器", "DelegateDemo热水器\DelegateDemo热水器.csproj", "{7E5E5F61-8296-42F8-A4B0-B691DA938985}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateDemo热水器Observer设计模式", "DelegateDemo热水器Observer设计模式\DelegateDemo热水器Observer设计模式.csproj", "{0A518DC0-4A52-4B14-9738-73FE37F4073A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "委托和方法的异步调用", "委托和方法的异步调用\委托和方法的异步调用.csproj", "{B493AFD5-F5D6-4485-8C6B-969360172316}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "委托和方法的异步调用New", "委托和方法的异步调用New\委托和方法的异步调用New.csproj", "{B2264DE9-2993-4DA3-B0B4-79712D4EBBF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +125,22 @@ Global
 		{65B882C2-08AC-41CA-97D6-8704E761E149}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65B882C2-08AC-41CA-97D6-8704E761E149}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65B882C2-08AC-41CA-97D6-8704E761E149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E5E5F61-8296-42F8-A4B0-B691DA938985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E5E5F61-8296-42F8-A4B0-B691DA938985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E5E5F61-8296-42F8-A4B0-B691DA938985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E5E5F61-8296-42F8-A4B0-B691DA938985}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A518DC0-4A52-4B14-9738-73FE37F4073A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A518DC0-4A52-4B14-9738-73FE37F4073A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A518DC0-4A52-4B14-9738-73FE37F4073A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A518DC0-4A52-4B14-9738-73FE37F4073A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B493AFD5-F5D6-4485-8C6B-969360172316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B493AFD5-F5D6-4485-8C6B-969360172316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B493AFD5-F5D6-4485-8C6B-969360172316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B493AFD5-F5D6-4485-8C6B-969360172316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2264DE9-2993-4DA3-B0B4-79712D4EBBF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2264DE9-2993-4DA3-B0B4-79712D4EBBF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2264DE9-2993-4DA3-B0B4-79712D4EBBF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2264DE9-2993-4DA3-B0B4-79712D4EBBF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

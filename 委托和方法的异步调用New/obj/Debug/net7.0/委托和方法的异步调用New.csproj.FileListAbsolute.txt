@@ -1,0 +1,15 @@
+C:\Users\llc\RiderProjects\StudyCore\委托和方法的异步调用New\bin\Debug\net7.0\委托和方法的异步调用New.exe
+C:\Users\llc\RiderProjects\StudyCore\委托和方法的异步调用New\bin\Debug\net7.0\委托和方法的异步调用New.deps.json
+C:\Users\llc\RiderProjects\StudyCore\委托和方法的异步调用New\bin\Debug\net7.0\委托和方法的异步调用New.runtimeconfig.json
+C:\Users\llc\RiderProjects\StudyCore\委托和方法的异步调用New\bin\Debug\net7.0\委托和方法的异步调用New.dll
+C:\Users\llc\RiderProjects\StudyCore\委托和方法的异步调用New\bin\Debug\net7.0\委托和方法的异步调用New.pdb
+C:\Users\llc\RiderProjects\StudyCore\委托和方法的异步调用New\obj\Debug\net7.0\委托和方法的异步调用New.csproj.AssemblyReference.cache
+C:\Users\llc\RiderProjects\StudyCore\委托和方法的异步调用New\obj\Debug\net7.0\委托和方法的异步调用New.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llc\RiderProjects\StudyCore\委托和方法的异步调用New\obj\Debug\net7.0\委托和方法的异步调用New.AssemblyInfoInputs.cache
+C:\Users\llc\RiderProjects\StudyCore\委托和方法的异步调用New\obj\Debug\net7.0\委托和方法的异步调用New.AssemblyInfo.cs
+C:\Users\llc\RiderProjects\StudyCore\委托和方法的异步调用New\obj\Debug\net7.0\委托和方法的异步调用New.csproj.CoreCompileInputs.cache
+C:\Users\llc\RiderProjects\StudyCore\委托和方法的异步调用New\obj\Debug\net7.0\委托和方法的异步调用New.dll
+C:\Users\llc\RiderProjects\StudyCore\委托和方法的异步调用New\obj\Debug\net7.0\refint\委托和方法的异步调用New.dll
+C:\Users\llc\RiderProjects\StudyCore\委托和方法的异步调用New\obj\Debug\net7.0\委托和方法的异步调用New.pdb
+C:\Users\llc\RiderProjects\StudyCore\委托和方法的异步调用New\obj\Debug\net7.0\委托和方法的异步调用New.genruntimeconfig.cache
+C:\Users\llc\RiderProjects\StudyCore\委托和方法的异步调用New\obj\Debug\net7.0\ref\委托和方法的异步调用New.dll

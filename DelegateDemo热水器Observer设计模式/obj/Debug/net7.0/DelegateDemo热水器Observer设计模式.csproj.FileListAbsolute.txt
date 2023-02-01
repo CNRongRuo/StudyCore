@@ -1,0 +1,15 @@
+C:\Users\llc\RiderProjects\StudyCore\DelegateDemo热水器Observer设计模式\bin\Debug\net7.0\DelegateDemo热水器Observer设计模式.exe
+C:\Users\llc\RiderProjects\StudyCore\DelegateDemo热水器Observer设计模式\bin\Debug\net7.0\DelegateDemo热水器Observer设计模式.deps.json
+C:\Users\llc\RiderProjects\StudyCore\DelegateDemo热水器Observer设计模式\bin\Debug\net7.0\DelegateDemo热水器Observer设计模式.runtimeconfig.json
+C:\Users\llc\RiderProjects\StudyCore\DelegateDemo热水器Observer设计模式\bin\Debug\net7.0\DelegateDemo热水器Observer设计模式.dll
+C:\Users\llc\RiderProjects\StudyCore\DelegateDemo热水器Observer设计模式\bin\Debug\net7.0\DelegateDemo热水器Observer设计模式.pdb
+C:\Users\llc\RiderProjects\StudyCore\DelegateDemo热水器Observer设计模式\obj\Debug\net7.0\DelegateDemo热水器Observer设计模式.csproj.AssemblyReference.cache
+C:\Users\llc\RiderProjects\StudyCore\DelegateDemo热水器Observer设计模式\obj\Debug\net7.0\DelegateDemo热水器Observer设计模式.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llc\RiderProjects\StudyCore\DelegateDemo热水器Observer设计模式\obj\Debug\net7.0\DelegateDemo热水器Observer设计模式.AssemblyInfoInputs.cache
+C:\Users\llc\RiderProjects\StudyCore\DelegateDemo热水器Observer设计模式\obj\Debug\net7.0\DelegateDemo热水器Observer设计模式.AssemblyInfo.cs
+C:\Users\llc\RiderProjects\StudyCore\DelegateDemo热水器Observer设计模式\obj\Debug\net7.0\DelegateDemo热水器Observer设计模式.csproj.CoreCompileInputs.cache
+C:\Users\llc\RiderProjects\StudyCore\DelegateDemo热水器Observer设计模式\obj\Debug\net7.0\DelegateDemo热水器Observer设计模式.dll
+C:\Users\llc\RiderProjects\StudyCore\DelegateDemo热水器Observer设计模式\obj\Debug\net7.0\refint\DelegateDemo热水器Observer设计模式.dll
+C:\Users\llc\RiderProjects\StudyCore\DelegateDemo热水器Observer设计模式\obj\Debug\net7.0\DelegateDemo热水器Observer设计模式.pdb
+C:\Users\llc\RiderProjects\StudyCore\DelegateDemo热水器Observer设计模式\obj\Debug\net7.0\DelegateDemo热水器Observer设计模式.genruntimeconfig.cache
+C:\Users\llc\RiderProjects\StudyCore\DelegateDemo热水器Observer设计模式\obj\Debug\net7.0\ref\DelegateDemo热水器Observer设计模式.dll
