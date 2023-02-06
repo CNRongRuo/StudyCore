@@ -25,29 +25,31 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContinueWithDemo", "Continu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CMD", "CMD\CMD.csproj", "{9A5E06B9-15E2-489B-AB84-C1BCA46FCAAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate委托三种声明方式", "Delegate委托三种声明方式\Delegate委托三种声明方式.csproj", "{C2169904-F87B-4604-BC47-E3361276731F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegate委托三种声明方式", "Delegate委托三种声明方式\Delegate委托三种声明方式.csproj", "{C2169904-F87B-4604-BC47-E3361276731F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "多播委托", "多播委托\多播委托.csproj", "{E78CF489-4457-4519-B2CF-8CAC96221D3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "多播委托", "多播委托\多播委托.csproj", "{E78CF489-4457-4519-B2CF-8CAC96221D3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "委托中的协变和逆变", "委托中的协变和逆变\委托中的协变和逆变.csproj", "{C8EB81B0-C0F0-4636-90E7-E1849F6D9D42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "委托中的协变和逆变", "委托中的协变和逆变\委托中的协变和逆变.csproj", "{C8EB81B0-C0F0-4636-90E7-E1849F6D9D42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventDemo", "EventDemo\EventDemo.csproj", "{AD0812C8-B1F4-4AF9-8390-915BA6897417}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventDemo", "EventDemo\EventDemo.csproj", "{AD0812C8-B1F4-4AF9-8390-915BA6897417}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateDemo2.0", "DelegateDemo2.0\DelegateDemo2.0.csproj", "{6743378F-2653-4136-B406-5A94DDC33757}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateDemo2.0", "DelegateDemo2.0\DelegateDemo2.0.csproj", "{6743378F-2653-4136-B406-5A94DDC33757}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "事件的由来", "事件的由来\事件的由来.csproj", "{8ABBCDCF-5629-46D3-97FB-463BAA012B18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "事件的由来", "事件的由来\事件的由来.csproj", "{8ABBCDCF-5629-46D3-97FB-463BAA012B18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "事件的限制类型能力", "事件的限制类型能力\事件的限制类型能力.csproj", "{65B882C2-08AC-41CA-97D6-8704E761E149}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "事件的限制类型能力", "事件的限制类型能力\事件的限制类型能力.csproj", "{65B882C2-08AC-41CA-97D6-8704E761E149}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateDemo热水器", "DelegateDemo热水器\DelegateDemo热水器.csproj", "{7E5E5F61-8296-42F8-A4B0-B691DA938985}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateDemo热水器", "DelegateDemo热水器\DelegateDemo热水器.csproj", "{7E5E5F61-8296-42F8-A4B0-B691DA938985}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateDemo热水器Observer设计模式", "DelegateDemo热水器Observer设计模式\DelegateDemo热水器Observer设计模式.csproj", "{0A518DC0-4A52-4B14-9738-73FE37F4073A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateDemo热水器Observer设计模式", "DelegateDemo热水器Observer设计模式\DelegateDemo热水器Observer设计模式.csproj", "{0A518DC0-4A52-4B14-9738-73FE37F4073A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "委托和方法的异步调用", "委托和方法的异步调用\委托和方法的异步调用.csproj", "{B493AFD5-F5D6-4485-8C6B-969360172316}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "委托和方法的异步调用", "委托和方法的异步调用\委托和方法的异步调用.csproj", "{B493AFD5-F5D6-4485-8C6B-969360172316}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "委托和方法的异步调用New", "委托和方法的异步调用New\委托和方法的异步调用New.csproj", "{B2264DE9-2993-4DA3-B0B4-79712D4EBBF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "委托和方法的异步调用New", "委托和方法的异步调用New\委托和方法的异步调用New.csproj", "{B2264DE9-2993-4DA3-B0B4-79712D4EBBF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DONET 框架中的委托与事件", "DONET 框架中的委托与事件\DONET 框架中的委托与事件.csproj", "{F73C3DB3-A1BE-4572-81F7-CD8B3E7D8057}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DONET 框架中的委托与事件", "DONET 框架中的委托与事件\DONET 框架中的委托与事件.csproj", "{F73C3DB3-A1BE-4572-81F7-CD8B3E7D8057}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thread.Sleep(0) 和 Join() 的使用", "Thread.Sleep(0) 和 Join() 的使用\Thread.Sleep(0) 和 Join() 的使用.csproj", "{D8988248-15EC-40DC-A838-ECAF21AF63DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{F73C3DB3-A1BE-4572-81F7-CD8B3E7D8057}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F73C3DB3-A1BE-4572-81F7-CD8B3E7D8057}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F73C3DB3-A1BE-4572-81F7-CD8B3E7D8057}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8988248-15EC-40DC-A838-ECAF21AF63DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8988248-15EC-40DC-A838-ECAF21AF63DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8988248-15EC-40DC-A838-ECAF21AF63DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8988248-15EC-40DC-A838-ECAF21AF63DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
